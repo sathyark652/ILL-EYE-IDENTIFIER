@@ -19,3 +19,4 @@ These are the steps we followed to successfully build the ILL EYE IDENTIFIER.
 
 The model was successfully able to classify most of the diseased eye images correctly.
 
+Around 27.5% of Indians Suffer from vision problems. It's a serious issue and will be more common in upcoming days due to excessive screen time in electronic gadgets. Many people lack access to eye care services, especially those who reside in underdeveloped or distant areas. This may be caused by a shortage of qualified eye care specialists, as well as a lack of infrastructure and other means of transportation. Eye care can be expensive, and many people may not be able to afford the cost of treatment or surgery. Some people may feel anxiety or fear about undergoing surgery, which can prevent them from seeking treatment.
